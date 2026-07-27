@@ -55,7 +55,7 @@ Between roughly 851 and 1,248 cumulative hours the printer ran a 0.6 mm nozzle r
 
 ## Citation
 
-If you use this dataset, please cite the accompanying Data in Brief article (Fu et al., 2026) and this repository. A companion analysis appears in Fu et al., *Progress in Additive Manufacturing* (in review). DOI to be assigned upon archival deposit.
+If you use this dataset, please cite the accompanying Data in Brief article (Fu et al., 2026) and this repository. 
 
 ## License
 
