@@ -10,7 +10,8 @@ To the authors' knowledge, this is the first publicly available FFF vibration da
 
 ![Representative time-domain and FFT vibration signals from the three sensors.](figures/sample_vibration.png)
 
-*Figure 2. Representative time-domain (top) and frequency-domain (bottom) vibration signals from the head, motor, and frame sensors during a single print at wear state 13 (1,405 cumulative hours), showing the higher amplitude on the motor channel.*
+*Figure 2. Representative vibration response at wear state 13: (a) time-domain acceleration signals from the extrusion head,
+motor, and frame sensors at 1,405 cumulative printing hours and (b) corresponding PSD estimated using Welch's method.*
 
 ## Repository structure
 
