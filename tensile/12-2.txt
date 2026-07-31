@@ -1,7 +1,7 @@
 DAQ: Crosshead, … - (Timed)   
 Test: Fu_MTS EM Tension (Simplified)
 Test Run: Test Run 57
-Date: 12/5/2025 6:50:03 PM
+Date: 7/1/2025 5:57:03 PM
 
 
 Crosshead 	Load 	Time 
