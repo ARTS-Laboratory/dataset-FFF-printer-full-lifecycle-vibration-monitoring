@@ -57,7 +57,7 @@ Between roughly 851 and 1,248 cumulative hours the printer ran a 0.6 mm nozzle r
 ## Citation
 
 If you use this dataset, please cite the accompanying Data in Brief article (Fu et al., 2026) and this repository. 
-[![DOI](https://zenodo.org/badge/1323037218.svg)](https://doi.org/10.5281/zenodo.21792790)
+(https://doi.org/10.5281/zenodo.21792790)
 
 ## License
 
